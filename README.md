@@ -1,3 +1,3 @@
-# zdm16
+# Anaconda3
 
-https://drive.google.com/drive/folders/1-zkDCkt8AzVtOmMyF6jQ_jFNMQDNT2fj?usp=sharing
+https://drive.google.com/drive/folders/1siYPnqBrLZWmoS2r9g09aGsWOGvf74ew?usp=sharing
